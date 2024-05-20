@@ -65,8 +65,7 @@ Dá uma **força** :muscle: aqui pro repositório e clica na *star* :star:, aqui
 ### OpenJDK
 * [OpenJDK download JDK](https://jdk.java.net/19/)
 * [Download Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk)
-* [](https://adoptium.net/temurin/releases/?version=11)
-***
+
 ***
 ## Autor
 Douglas Mota
