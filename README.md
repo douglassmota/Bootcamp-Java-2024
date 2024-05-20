@@ -1,5 +1,4 @@
 # Curso de Java para Iniciantes
-[![NPM](https://img.shields.io/npm/l/react)]
 
 _**Programar é muito mais do que escrever códigos**_
 
@@ -68,8 +67,6 @@ Dá uma **força** :muscle: aqui pro repositório e clica na *star* :star:, aqui
 * [Download Azul Zulu OpenJDK](https://www.azul.com/downloads/?package=jdk)
 * [](https://adoptium.net/temurin/releases/?version=11)
 ***
-## Lista de Exercícios
-
 ***
 ## Autor
 Douglas Mota
