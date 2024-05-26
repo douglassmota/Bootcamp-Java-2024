@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "java-terminal-argumentos_a7b236c1"
+        },
+        {
+            "type": "java",
             "name": "AboutMeUpdate",
             "request": "launch",
             "mainClass": "AboutMeUpdate",
