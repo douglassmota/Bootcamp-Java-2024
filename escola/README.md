@@ -15,12 +15,13 @@ Getters e setters são métodos especiais utilizados para acessar e modificar os
 
 - **Getters**: Um getter geralmente tem o nome no formato `getNomeDoCampo` e retorna o valor do campo.
   #### Exemplo:
+  
   ```java
   public String getNome() {
       return this.nome;
   }
-```
-### Setters: Um setter geralmente tem o nome no formato setNomeDoCampo e recebe um parâmetro para definir o valor do campo.
+
+Setters: Um setter geralmente tem o nome no formato setNomeDoCampo e recebe um parâmetro para definir o valor do campo.
 #### Exemplo:
 
 ```
@@ -55,6 +56,4 @@ public class Pessoa {
     }
 }
 ```
-Neste exemplo, a classe Pessoa possui campos privados nome e idade, e métodos públicos getNome, setNome, getIdade e setIdade para acessar e modificar esses campos, seguindo a convenção de getters e setters em Java.
-
-##### Espero que este README tenha sido útil para entender os conceitos de getters e setters em Java. Sinta-se à vontade para explorar o código-fonte neste repositório e experimentar esses conceitos na prática!
+Neste exemplo, a classe Pe
