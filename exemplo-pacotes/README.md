@@ -14,15 +14,15 @@ package com.exemplo.pacote;
 public class MinhaClasse {
     // Conteúdo da classe aqui
 }
-
-### Visibilidade dos Recursos
+```
+## Visibilidade dos Recursos
 Em Java, a visibilidade dos recursos (métodos, variáveis e classes) é controlada por modificadores de acesso. Existem três modificadores de acesso principais em Java: public, protected, default (ou pacote-private) e private.
 
-### Modificador public
+## Modificador public
 O modificador public torna o recurso acessível de qualquer lugar, tanto dentro quanto fora do pacote em que está definido.
 
-## Exemplo:
-
+### Exemplo:
+```
 package com.exemplo.pacote;
 
 public class MinhaClasse {
@@ -30,12 +30,13 @@ public class MinhaClasse {
         // Conteúdo do método aqui
     }
 }
+```
 
-### Modificador default (ou pacote-private)
+## Modificador default (ou pacote-private)
 O modificador default (ou pacote-private) torna o recurso acessível apenas dentro do mesmo pacote em que está definido. Se nenhum modificador for especificado, o recurso é considerado default.
 
-## Exemplo:
-
+### Exemplo:
+```
 package com.exemplo.pacote;
 
 class MinhaClasse {
@@ -43,12 +44,13 @@ class MinhaClasse {
         // Conteúdo do método aqui
     }
 }
+```
 
-### Modificador private
+## Modificador private
 O modificador private torna o recurso acessível apenas dentro da própria classe em que está definido. Ele é o nível de visibilidade mais restrito.
 
-## Exemplo:
-
+### Exemplo:
+```
 package com.exemplo.pacote;
 
 public class MinhaClasse {
@@ -58,6 +60,5 @@ public class MinhaClasse {
         // Conteúdo do método aqui
     }
 }
-
-### Espero que este README tenha sido útil para entender esses conceitos importantes em Java. Sinta-se à vontade para explorar o código-fonte neste repositório e experimentar esses conceitos na prática!
-
+```
+##### Espero que este README tenha sido útil para entender esses conceitos importantes em Java. Sinta-se à vontade para explorar o código-fonte neste repositório e experimentar esses conceitos na prática!
