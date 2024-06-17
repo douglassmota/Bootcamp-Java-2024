@@ -149,6 +149,6 @@ public class OrdenacaoPessoa {
 
 [1] "Java Stream API - Oracle." Oracle Brasil. Disponível em: https://www.oracle.com/br/technical-resources/articles/java-stream-api.html.
 
-[2] "Java Collections API Examples - cami-la." GitHub. Disponível em: https://github.com/cami-la/collections-java-api-2023.
+[2] "Java Collections API Examples - Professora Camila " GitHub. Disponível em: https://github.com/cami-la/collections-java-api-2023.
 
 [3] "Como usar funções functional_interface em Java - DevMedia." DevMedia. Disponível em: https://www.devmedia.com.br/como-usar-funcoes-lambda-em-java/32826.
